@@ -27,3 +27,5 @@ IIFE, factory function, clojures, debugging, destructuring, rest, iterables.
 
 #### 8 - Automação Front End :white_check_mark:
 CLI, NPM, ESLint, Webpack, Babel e Git.
+
+**OBS**: Toda a parte de javascript foi criada durante o curso, não foi baixado nenhum tipo de plugin!!!
