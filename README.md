@@ -2,7 +2,7 @@
 ### :star: Projeto criado do 0 no curso de Javascript ES6+ da Origamid
 
 Esse projeto foi criado ao longo do curso focando em todas as funcionalidades em javascript, mostrando os mais novos conceitos do ES6.
-Princípais tópicos estudados no curso:
+Principais tópicos estudados no curso:
 
 #### 1 - **JavaScript para Iniciante** :white_check_mark:
 Dados, variáveis, operadores, boolean, funções, objetos, arrays, loops e mais.
